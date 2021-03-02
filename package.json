@@ -1,0 +1,21 @@
+{
+  "name": "tfjs-project",
+  "version": "1.0.0",
+  "description": "Projeto TensorFlow.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/difusao/tfjs-project.git"
+  },
+  "keywords": [],
+  "author": "<difusao@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/difusao/tfjs-project/issues"
+  },
+  "homepage": "https://github.com/difusao/tfjs-project#readme",
+  "dependencies": {}
+}
