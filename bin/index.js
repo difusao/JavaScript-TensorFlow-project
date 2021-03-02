@@ -3,7 +3,7 @@ const cocoSsd = require('@tensorflow-models/coco-ssd');
  const fs = require('fs').promises;
 
  // Load the Coco SSD model and image.
- Promise.all([cocoSsd.load(), fs.readFile('image1.jpg')])
+ Promise.all([cocoSsd.load(), fs.readFile('images/image1.jpg')])
  .then((results) => {
    // First result is the COCO-SSD model object.
    const model = results[0];
