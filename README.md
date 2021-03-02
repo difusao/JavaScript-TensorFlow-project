@@ -13,6 +13,8 @@ Projeto TensorFlow.js
 npm start
 ```
 
+> Output
+
 ```
 [
   {
