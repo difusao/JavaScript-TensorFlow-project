@@ -3,6 +3,16 @@ Projeto TensorFlow.js
 
 ![image1](images/image1.jpg)
 
+> SETUP
+
+```npm i```
+
+> RUN
+
+```
+npm start
+```
+
 ```
 [
   {
